@@ -1,0 +1,156 @@
+[
+    {
+        "begin": 106,
+        "family": 0,
+        "file": "bazel-out/k8-opt-exec-2B5CBBC6/bin/external/com_google_protobuf/src/google/protobuf/_virtual_includes/protobuf_lite/google/protobuf/serial_arena.h",
+        "funcname": "google::protobuf::internal::SerialArena::TryAllocateFromCachedBlock",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 130,
+        "family": 0,
+        "file": "bazel-out/k8-fastbuild/bin/external/com_google_protobuf/src/google/protobuf/_virtual_includes/arena/google/protobuf/serial_arena.h",
+        "funcname": "google::protobuf::internal::SerialArena::AllocateAligned",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 242,
+        "family": 0,
+        "file": "bazel-out/k8-fastbuild/bin/external/com_google_protobuf/src/google/protobuf/_virtual_includes/arena/google/protobuf/serial_arena.h",
+        "funcname": "google::protobuf::internal::SerialArena::AllocateAlignedWithCleanup",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 194,
+        "family": 0,
+        "file": "external/com_google_protobuf/src/google/protobuf/arena.cc",
+        "funcname": "google::protobuf::internal::SerialArena::AllocateAlignedFallback",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 228,
+        "family": 0,
+        "file": "external/com_google_protobuf/src/google/protobuf/arena.cc",
+        "funcname": "google::protobuf::internal::SerialArena::AllocateAlignedWithCleanupFallback",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 165,
+        "family": 0,
+        "file": "external/com_google_protobuf/src/google/protobuf/arena.cc",
+        "funcname": "google::protobuf::internal::SerialArena::ReturnArrayMemory",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 754,
+        "family": 1,
+        "file": "external/com_google_protobuf/src/google/protobuf/arena.cc",
+        "funcname": "google::protobuf::internal::ThreadSafeArena::AllocateAlignedWithCleanup",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 694,
+        "family": 1,
+        "file": "external/com_google_protobuf/src/google/protobuf/arena.cc",
+        "funcname": "google::protobuf::internal::ThreadSafeArena::Free",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 164,
+        "family": 2,
+        "file": "src/core/lib/resource_quota/arena.h",
+        "funcname": "grpc_core::Arena::Alloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 97,
+        "family": 2,
+        "file": "src/core/lib/resource_quota/arena.cc",
+        "funcname": "grpc_core::Arena::AllocZone",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 616,
+        "family": 3,
+        "file": "external/com_google_absl/absl/base/internal/low_level_alloc.cc",
+        "funcname": "absl::base_internal::LowLevelAlloc::Alloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 621,
+        "family": 3,
+        "file": "external/com_google_absl/absl/base/internal/low_level_alloc.cc",
+        "funcname": "absl::base_internal::LowLevelAlloc::AllocWithArena",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 508,
+        "family": 3,
+        "file": "external/com_google_absl/absl/base/internal/low_level_alloc.cc",
+        "funcname": "absl::base_internal::LowLevelAlloc::Free",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 523,
+        "family": 3,
+        "file": "external/com_google_absl/absl/base/internal/low_level_alloc.cc",
+        "funcname": "absl::base_internal::DoAllocWithArena",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    }
+]

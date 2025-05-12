@@ -1,0 +1,200 @@
+[
+    {
+        "begin": 102,
+        "family": 0,
+        "file": "thirdparty/libvorbis/block.c",
+        "funcname": "_vorbis_block_alloc",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 148,
+        "family": 0,
+        "file": "thirdparty/libvorbis/block.c",
+        "funcname": "vorbis_block_clear",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "CLEAR"
+    },
+    {
+        "begin": 614,
+        "family": 1,
+        "file": "thirdparty/basis_universal/encoder/jpgd.cpp",
+        "funcname": "jpgd::jpeg_decoder::alloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 227,
+        "family": 2,
+        "file": "thirdparty/glslang/glslang/MachineIndependent/PoolAlloc.cpp",
+        "funcname": "glslang::TPoolAllocator::allocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 221,
+        "family": 2,
+        "file": "thirdparty/glslang/glslang/MachineIndependent/PoolAlloc.cpp",
+        "funcname": "glslang::TPoolAllocator::popAll",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "CLEAR"
+    },
+    {
+        "begin": 678,
+        "family": 3,
+        "file": "thirdparty/jpeg-compressor/jpgd.cpp",
+        "funcname": "jpgd::jpeg_decoder::alloc_aligned",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 122,
+        "family": 4,
+        "file": "thirdparty/embree/common/tasking/taskschedulerinternal.h",
+        "funcname": "embree::TaskScheduler::TaskQueue::alloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 135,
+        "family": 4,
+        "file": "thirdparty/embree/common/tasking/taskschedulerinternal.h",
+        "funcname": "embree::TaskScheduler::TaskQueue::push_right",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "NONE"
+    },
+    {
+        "begin": 286,
+        "family": 5,
+        "file": "thirdparty/embree/kernels/subdiv/tessellation_cache.h",
+        "funcname": "embree::SharedLazyTessellationCache::malloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 57,
+        "family": 6,
+        "file": "thirdparty/embree/kernels/common/alloc.h",
+        "funcname": "embree::FastAllocator::ThreadLocal::malloc",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 475,
+        "family": 7,
+        "file": "thirdparty/embree/kernels/common/alloc.h",
+        "funcname": "embree::FastAllocator::clear",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "CLEAR"
+    },
+    {
+        "begin": 497,
+        "family": 7,
+        "file": "thirdparty/embree/kernels/common/alloc.h",
+        "funcname": "embree::FastAllocator::malloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 576,
+        "family": 8,
+        "file": "thirdparty/embree/kernels/common/alloc.h",
+        "funcname": "embree::FastAllocator::specialAlloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 845,
+        "family": 8,
+        "file": "thirdparty/embree/kernels/common/alloc.h",
+        "funcname": "embree::FastAllocator::Block::malloc",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 618,
+        "family": 9,
+        "file": "thirdparty/harfbuzz/src/hb-serialize.hh",
+        "funcname": "hb_serialize_context_t::allocate_size",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 269,
+        "family": 10,
+        "file": "thirdparty/pcre2/src/sljit/sljitExecAllocator.c",
+        "funcname": "sljit_malloc_exec",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 341,
+        "family": 10,
+        "file": "thirdparty/pcre2/src/sljit/sljitExecAllocator.c",
+        "funcname": "sljit_free_exec",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 606,
+        "family": 11,
+        "file": "thirdparty/pcre2/src/sljit/sljitLir.c",
+        "funcname": "sljit_alloc_memory",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "ALLOC"
+    }
+]

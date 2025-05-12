@@ -1,0 +1,90 @@
+[
+    {
+        "file": "install/php-8.3.2/include/php/Zend/zend_arena.h",
+        "begin": 53,
+        "family": 0,
+        "funcname": "zend_arena_alloc",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "ALLOC"
+    },
+    {
+        "file": "install/php-8.3.2/include/php/Zend/zend_arena.h",
+        "begin": 79,
+        "family": 0,
+        "funcname": "zend_arena_calloc",
+        "idIdx": 0,
+        "numIdx": 1,
+        "ptrIdx": -1,
+        "sizeIdx": 2,
+        "type": "CALLOC"
+    },
+    {
+        "file": "src/swoole-src/src/memory/ring_buffer.cc",
+        "begin": 92,
+        "family": 1,
+        "funcname": "swoole::RingBuffer::alloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "file": "src/swoole-src/src/memory/ring_buffer.cc",
+        "begin": 142,
+        "family": 1,
+        "funcname": "swoole::RingBuffer::free",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "file": "src/swoole-src/src/memory/global_memory.cc",
+        "begin": 80,
+        "family": 2,
+        "funcname": "swoole::GlobalMemory::alloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "file": "src/swoole-src/src/memory/global_memory.cc",
+        "begin": 115,
+        "family": 2,
+        "funcname": "swoole::GlobalMemory::free",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "file": "src/swoole-src/src/memory/fixed_pool.cc",
+        "begin": 149,
+        "family": 4,
+        "funcname": "swoole::FixedPool::alloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "file": "src/swoole-src/src/memory/fixed_pool.cc",
+        "begin": 173,
+        "family": 4,
+        "funcname": "swoole::FixedPool::free",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    }
+]

@@ -1,0 +1,60 @@
+[	
+	{
+		"funcname": "GetSize",
+		"family": 0,
+		"ptrIdx": 0,
+		"type": "SIZE",
+		"file": "functional_test.cpp",
+		"begin": 33
+	},
+	{
+		"funcname": "Dealloc",
+		"family": 0,
+		"ptrIdx": 0,
+		"type": "FREE",
+		"file": "functional_test.cpp",
+		"begin": 37
+	},
+	{
+		"funcname": "Alloc",
+		"family": 0,
+		"sizeIdx": 0,
+		"type": "ALLOC",
+		"file": "functional_test.cpp",
+		"begin": 50
+	},
+	{
+		"funcname": "Calloc",
+		"family": 0,
+		"sizeIdx": 0,
+		"numIdx": 1,
+		"type": "CALLOC",
+		"file": "functional_test.cpp",
+		"begin": 54
+	},
+	{
+		"funcname": "TypedAlloc",
+		"family": 0,
+		"sizeIdx": 0,
+		"type": "ALLOC",
+		"file": "functional_test.cpp",
+		"begin": 70
+	},
+	{
+		"funcname": "Realloc",
+		"family": 0,
+		"sizeIdx": 0,
+		"ptrIdx": 1,
+		"type": "REALLOC",
+		"file": "functional_test.cpp",
+		"begin": 74
+	},
+	{
+		"funcname": "ClearChunks",
+		"family": 0,
+		"type": "CLEAR",
+		"file": "functional_test.cpp",
+		"begin": 80
+	}
+	
+]

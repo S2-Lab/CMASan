@@ -1,0 +1,46 @@
+[
+    {
+        "begin": 109,
+        "family": 0,
+        "file": "src/ncnn/src/allocator.cpp",
+        "funcname": "ncnn::PoolAllocator::fastMalloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 181,
+        "family": 0,
+        "file": "src/ncnn/src/allocator.cpp",
+        "funcname": "ncnn::PoolAllocator::fastFree",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 286,
+        "family": 1,
+        "file": "src/ncnn/src/allocator.cpp",
+        "funcname": "ncnn::UnlockedPoolAllocator::fastMalloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 338,
+        "family": 1,
+        "file": "src/ncnn/src/allocator.cpp",
+        "funcname": "ncnn::UnlockedPoolAllocator::fastFree",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "begin": 594,
+        "family": 0,
+        "file": "module.c",
+        "funcname": "RM_PoolAlloc",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 2742,
+        "family": 0,
+        "file": "src/jemalloc.c",
+        "funcname": "je_malloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 2829,
+        "family": 0,
+        "file": "src/jemalloc.c",
+        "funcname": "je_calloc",
+        "idIdx": -1,
+        "numIdx": 0,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "CALLOC"
+    },
+    {
+        "begin": 2788,
+        "family": 0,
+        "file": "src/jemalloc.c",
+        "funcname": "je_aligned_alloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 3620,
+        "family": 0,
+        "file": "src/jemalloc.c",
+        "funcname": "je_realloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": 1,
+        "type": "REALLOC"
+    },
+    {
+        "begin": 3157,
+        "family": 0,
+        "file": "src/jemalloc.c",
+        "funcname": "je_free",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 3397,
+        "family": 0,
+        "file": "src/jemalloc.c",
+        "funcname": "je_mallocx",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 3570,
+        "family": 0,
+        "file": "src/jemalloc.c",
+        "funcname": "je_rallocx",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": 1,
+        "type": "REALLOC"
+    },
+    {
+        "begin": 3216,
+        "family": 0,
+        "file": "src/jemalloc.c",
+        "funcname": "je_valloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 4096,
+        "family": 0,
+        "file": "src/jemalloc.c",
+        "funcname": "je_malloc_usable_size",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "SIZE"
+    },
+    {
+        "begin": 4048,
+        "family": 0,
+        "file": "src/jemalloc.c",
+        "funcname": "je_malloc_stats_print",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "NONE"
+    }
+]

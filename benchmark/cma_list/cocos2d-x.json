@@ -1,0 +1,134 @@
+[
+    {
+        "begin": 176,
+        "family": 0,
+        "file": "src/cocos2d-x/external/json/allocators.h",
+        "funcname": "rapidjson::MemoryPoolAllocator::Malloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 191,
+        "family": 0,
+        "file": "src/cocos2d-x/external/json/allocators.h",
+        "funcname": "rapidjson::MemoryPoolAllocator::Realloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": 2,
+        "type": "REALLOC"
+    },
+    {
+        "begin": 225,
+        "family": 0,
+        "file": "src/cocos2d-x/external/json/allocators.h",
+        "funcname": "rapidjson::MemoryPoolAllocator::Free",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 544,
+        "family": 2,
+        "file": "src/cocos2d-x/external/bullet/include/bullet/LinearMath/btSerializer.h",
+        "funcname": "btDefaultSerializer::internalAlloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 53,
+        "family": 3,
+        "file": "src/cocos2d-x/cocos/navmesh/CCNavMeshUtils.cpp",
+        "funcname": "cocos2d::LinearAllocator::alloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 64,
+        "family": 3,
+        "file": "src/cocos2d-x/cocos/navmesh/CCNavMeshUtils.cpp",
+        "funcname": "cocos2d::LinearAllocator::reset",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "CLEAR"
+    },
+    {
+        "begin": 48,
+        "family": 3,
+        "file": "src/cocos2d-x/cocos/navmesh/CCNavMeshUtils.cpp",
+        "funcname": "cocos2d::LinearAllocator::free",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 327,
+        "family": 4,
+        "file": "src/cocos2d-x/external/flatbuffers/flatbuffers.h",
+        "funcname": "flatbuffers::vector_downward::make_space",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 321,
+        "family": 4,
+        "file": "src/cocos2d-x/external/flatbuffers/flatbuffers.h",
+        "funcname": "flatbuffers::vector_downward::clear",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "CLEAR"
+    },
+    {
+        "begin": 126,
+        "family": 5,
+        "file": "src/cocos2d-x/cocos/editor-support/spine/v4/SkeletonBatch.cpp",
+        "funcname": "spine::SkeletonBatch::allocateIndices",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 286,
+        "family": 6,
+        "file": "src/cocos2d-x/cocos/editor-support/spine/v4/SkeletonTwoColorBatch.cpp",
+        "funcname": "spine::SkeletonTwoColorBatch::allocateVertices",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 309,
+        "family": 6,
+        "file": "src/cocos2d-x/cocos/editor-support/spine/v4/SkeletonTwoColorBatch.cpp",
+        "funcname": "spine::SkeletonTwoColorBatch::allocateIndices",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    }
+]

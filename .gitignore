@@ -1,0 +1,51 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Temp files
+*.log
+.cmasan_exec_count
+*.ll
+*.cmasan.pc
+__pycache__
+
+# LLVM files
+LLVM*/build
+LLVM*/binutils
+LLVM*/clang
+LLVM*/compiler-rt
+LLVM*/llvm
+LLVM*/lld
+LLVM*/cmake
+LLVM*/libunwind
+
+

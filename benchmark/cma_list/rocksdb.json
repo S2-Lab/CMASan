@@ -1,0 +1,79 @@
+[
+    {
+        "begin": 122,
+        "family": 0,
+        "file": "src/rocksdb/memory/arena.h",
+        "funcname": "rocksdb::Arena::Allocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 52,
+        "family": 1,
+        "file": "src/rocksdb/memory/concurrent_arena.h",
+        "funcname": "rocksdb::ConcurrentArena::Allocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 57,
+        "family": 1,
+        "file": "src/rocksdb/memory/concurrent_arena.h",
+        "funcname": "rocksdb::ConcurrentArena::AllocateAligned",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 129,
+        "family": 1,
+        "file": "src/rocksdb/memory/concurrent_arena.h",
+        "funcname": "rocksdb::ConcurrentArena::AllocateImpl",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 108,
+        "family": 0,
+        "file": "src/rocksdb/memory/arena.cc",
+        "funcname": "rocksdb::Arena::AllocateAligned",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 95,
+        "family": 0,
+        "file": "src/rocksdb/memory/arena.cc",
+        "funcname": "rocksdb::Arena::AllocateFromHugePage",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 63,
+        "family": 0,
+        "file": "src/rocksdb/memory/arena.cc",
+        "funcname": "rocksdb::Arena::AllocateFallback",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    }
+]

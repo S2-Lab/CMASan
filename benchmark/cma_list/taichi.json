@@ -1,0 +1,69 @@
+[
+    {
+        "begin": 30,
+        "family": 0,
+        "file": "src/taichi/taichi/rhi/common/unified_allocator.cpp",
+        "funcname": "taichi::lang::UnifiedAllocator::allocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 88,
+        "family": 0,
+        "file": "src/taichi/taichi/rhi/common/unified_allocator.cpp",
+        "funcname": "taichi::lang::UnifiedAllocator::release",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 1,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    
+    {
+        "begin": 2282,
+        "family": 1,
+        "file": "src/taichi/external/include/stb_truetype.h",
+        "funcname": "stbtt__hheap_alloc",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 2303,
+        "family": 1,
+        "file": "src/taichi/external/include/stb_truetype.h",
+        "funcname": "stbtt__hheap_free",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": 1,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 654,
+        "family": 2,
+        "file": "src/taichi/external/imgui/imgui_internal.h",
+        "funcname": "ImChunkStream::alloc_chunk",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 651,
+        "family": 0,
+        "file": "src/taichi/external/imgui/imgui_internal.h",
+        "funcname": "ImChunkStream::clear",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "CLEAR"
+    }
+]

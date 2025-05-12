@@ -1,0 +1,145 @@
+[
+    {
+        "begin": 427,
+        "family": 0,
+        "file": "src/folly/folly/io/IOBufQueue.h",
+        "funcname": "folly::IOBufQueue::allocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 516,
+        "family": 1,
+        "file": "src/folly/folly/concurrency/CacheLocality.cpp",
+        "funcname": "folly::(anonymous namespace)::Allocator::allocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 532,
+        "family": 1,
+        "file": "src/folly/folly/concurrency/CacheLocality.cpp",
+        "funcname": "folly::(anonymous namespace)::Allocator::deallocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 166,
+        "family": 2,
+        "file": "src/folly/folly/experimental/JemallocNodumpAllocator.cpp",
+        "funcname": "folly::JemallocNodumpAllocator::deallocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 162,
+        "family": 2,
+        "file": "src/folly/folly/experimental/JemallocNodumpAllocator.cpp",
+        "funcname": "folly::JemallocNodumpAllocator::deallocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 115,
+        "family": 2,
+        "file": "src/folly/folly/experimental/JemallocNodumpAllocator.cpp",
+        "funcname": "folly::JemallocNodumpAllocator::allocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 341,
+        "family": 3,
+        "file": "src/folly/folly/fibers/GuardPageAllocator.cpp",
+        "funcname": "folly::fibers::GuardPageAllocator::allocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 356,
+        "family": 3,
+        "file": "src/folly/folly/fibers/GuardPageAllocator.cpp",
+        "funcname": "folly::fibers::GuardPageAllocator::deallocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 84,
+        "family": 4,
+        "file": "src/folly/folly/fibers/GuardPageAllocator.cpp",
+        "funcname": "folly::fibers::StackCache::borrow",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 87,
+        "family": 5,
+        "file": "src/folly/folly/memory/Arena.h",
+        "funcname": "folly::Arena::allocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 27,
+        "family": 5,
+        "file": "src/folly/folly/memory/Arena-inl.h",
+        "funcname": "folly::Arena::allocateSlow",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 27,
+        "family": 5,
+        "file": "src/folly/folly/memory/Arena-inl.h",
+        "funcname": "folly::Arena::clear",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "CLEAR"
+    },
+    {
+        "begin": 45,
+        "family": 6,
+        "file": "src/folly/folly/memory/ThreadCachedArena.h",
+        "funcname": "folly::ThreadCachedArena::allocate",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "begin": 726,
+        "family": 0,
+        "file": "src/micropython/py/gc.c",
+        "funcname": "gc_alloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 895,
+        "family": 0,
+        "file": "src/micropython/py/gc.c",
+        "funcname": "gc_free",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 1024,
+        "family": 0,
+        "file": "src/micropython/py/gc.c",
+        "funcname": "gc_realloc",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": 1,
+        "type": "REALLOC"
+    },
+    {
+        "begin": 36,
+        "file": "src/micropython/ports/unix/gccollect.c",
+        "funcname": "gc_collect",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "NONE"
+    },
+    {
+        "begin": 34,
+        "file": "src/micropython/py/modgc.c",
+        "funcname": "py_gc_collect",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "NONE"
+    },
+    {
+        "begin": 603,
+        "file": "src/micropython/py/gc.c",
+        "funcname": "gc_collect_root",
+        "type": "GC",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "family": 0
+    },
+    {
+        "begin": 1187,
+        "file": "src/micropython/py/gc.c",
+        "funcname": "gc_dump_alloc_table",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "NONE"
+    },
+    {
+        "begin": 388,
+        "file": "src/micropython/py/gc.c",
+        "funcname": "gc_mark_subtree",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": -1,
+        "type": "NONE"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "begin": 2382,
+        "family": 1,
+        "file": "Zend/zend_alloc.c",
+        "funcname": "_zend_mm_alloc",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 2387,
+        "family": 1,
+        "file": "Zend/zend_alloc.c",
+        "funcname": "_zend_mm_free",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": 1,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 2392,
+        "family": 1,
+        "file": "Zend/zend_alloc.c",
+        "funcname": "_zend_mm_realloc",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": 1,
+        "sizeIdx": 2,
+        "type": "REALLOC"
+    },
+    {
+        "begin": 2397,
+        "family": 1,
+        "file": "Zend/zend_alloc.c",
+        "funcname": "_zend_mm_realloc2",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": 1,
+        "sizeIdx": 2,
+        "type": "REALLOC"
+    },
+    {
+        "begin": 1807,
+        "family": 1,
+        "file": "Zend/zend_alloc.c",
+        "funcname": "zend_mm_alloc_huge",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 1880,
+        "family": 1,
+        "file": "Zend/zend_alloc.c",
+        "funcname": "zend_mm_free_huge",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": 1,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 1084,
+        "family": 1,
+        "file": "Zend/zend_alloc.c",
+        "funcname": "zend_mm_alloc_large_ex",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 1367,
+        "family": 1,
+        "file": "Zend/zend_alloc.c",
+        "funcname": "zend_mm_alloc_heap",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 1,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 1412,
+        "family": 1,
+        "file": "Zend/zend_alloc.c",
+        "funcname": "zend_mm_free_heap",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": 1,
+        "sizeIdx": -1,
+        "type": "FREE"
+    },
+    {
+        "begin": 1465,
+        "family": 1,
+        "file": "Zend/zend_alloc.c",
+        "funcname": "zend_mm_realloc_slow",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": 1,
+        "sizeIdx": 2,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 1483,
+        "family": 1,
+        "file": "Zend/zend_alloc.c",
+        "funcname": "zend_mm_realloc_huge",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": 1,
+        "sizeIdx": 2,
+        "type": "REALLOC"
+    },
+    {
+        "begin": 1570,
+        "family": 1,
+        "file": "Zend/zend_alloc.c",
+        "funcname": "zend_mm_realloc_heap",
+        "idIdx": 0,
+        "numIdx": -1,
+        "ptrIdx": 1,
+        "sizeIdx": 2,
+        "type": "REALLOC"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "begin": 1397,
+        "family": 0,
+        "file": "MagickCore/memory.c",
+        "funcname": "ResizeMagickMemory",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": 1,
+        "type": "REALLOC"
+    },
+    {
+        "begin": 552,
+        "family": 0,
+        "file": "MagickCore/memory.c",
+        "funcname": "AcquireMagickMemory",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": -1,
+        "sizeIdx": 0,
+        "type": "ALLOC"
+    },
+    {
+        "begin": 1162,
+        "family": 0,
+        "file": "MagickCore/memory.c",
+        "funcname": "RelinquishMagickMemory",
+        "idIdx": -1,
+        "numIdx": -1,
+        "ptrIdx": 0,
+        "sizeIdx": -1,
+        "type": "FREE"
+    }
+]

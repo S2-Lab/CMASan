@@ -1,0 +1,20 @@
+set(S2LAB_SOURCES
+  s2lab.cc
+  )
+
+include_directories(..)
+
+set(S2LAB_CFLAGS ${SANITIZER_COMMON_CFLAGS})
+
+add_custom_target(s2lab)
+
+add_compiler_rt_runtime(clang_rt.s2lab
+        STATIC
+        ARCHS x86_64
+        SOURCES ${S2LAB_SOURCES}
+        CFLAGS ${S2LAB_CFLAGS}
+        PARENT_TARGET s2lab)
+
+add_sanitizer_rt_symbols(clang_rt.s2lab)
+
+add_dependencies(compiler-rt s2lab)
