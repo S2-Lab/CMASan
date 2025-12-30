@@ -12,13 +12,13 @@ The following instructions describe how to build CMASan and apply it to various 
 
 ## Citation
 ```
-@inproceedings{hong2024cmasan,
+@inproceedings{hong2025cmasan,
   title={CMASan: Custom Memory Allocator-aware Address Sanitizer},
   author={Hong, Junwha and Jang, Wonil and Kim, Mijung and Yu, Lei and Kwon, Yonghwi and Jeon, Yuseok},
   booktitle={2025 IEEE Symposium on Security and Privacy (SP)},
-  pages={74--74},
-  year={2024},
-  organization={IEEE Computer Society}
+  pages={740--757},
+  year={2025},
+  organization={IEEE}
 }
 ````
 
